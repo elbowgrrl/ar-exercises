@@ -1,5 +1,7 @@
 # Active Record Exercises
 
+#@elbowgrrl s submission. Pair Programmed with @mandatoryrecess
+
 ## Introduction
 
 You'll find that this project has two Active Record "models" (classes):
